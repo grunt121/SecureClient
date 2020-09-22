@@ -21,3 +21,4 @@ C:\Repos\SecureClient\SecureClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.
 C:\Repos\SecureClient\SecureClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Repos\SecureClient\SecureClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Repos\SecureClient\SecureClient\obj\Debug\netcoreapp3.1\SecureClient.csproj.CoreCompileInputs.cache
+C:\Repos\SecureClient\SecureClient\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
